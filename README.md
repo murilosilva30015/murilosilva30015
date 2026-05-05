@@ -1,6 +1,10 @@
 # 👩🏻‍💻 Murilo da Silva Carneiro
 
 **`Desenvolvedor FullStack`**
+<br> </br>
+> Entusiasta por tecnologia. desenvolvedor por profissão e paixão.
+
+Aqui onde é dedico horas e horas do meu dia-a-dia, transformando meus pensamentos e ideias em códigos!
 
 
 
