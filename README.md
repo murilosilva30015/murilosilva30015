@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Murilo da Silva Carneiro
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 
 ### 🤖 Linguagens e Tecnologias
