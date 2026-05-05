@@ -1,4 +1,6 @@
-##👩🏻‍💻 Oiii eu sou Murilo da Silva Carneiro, criador de conteúdo de programação e tecnologia!
+# 👩🏻‍💻 Murilo da Silva Carneiro
+
+**`Desenvolvedora FullStack`**
 
 
 ### 🤖 Linguagens e Tecnologias
