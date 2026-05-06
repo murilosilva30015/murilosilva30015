@@ -49,6 +49,14 @@ Aqui onde é dedico horas e horas do meu dia-a-dia, transformando meus pensament
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.myqnap.org/wp-content/uploads/nodejs-logo.gif" 
 /> <br></br>
 ## 🛠️ Ferramentas de Desenvolvimento
 <br>
@@ -59,11 +67,5 @@ Aqui onde é dedico horas e horas do meu dia-a-dia, transformando meus pensament
 
   <a href="https://www.linkedin.com/in/murilo-da-silva-carneiro-b5b730217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:murilosilva30015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <br><br>
-  ### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
-
+  
 
